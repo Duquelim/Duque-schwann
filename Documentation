@@ -1,0 +1,6 @@
+Project Title
+Spiral Square
+What is the purpose of your project? tell about your project
+I created this project to explore Python’s Turtle module by drawing shrinking squares in a spiral pattern, practicing loops, functions, and graphics.
+How your program works? Explain how to run your program
+To run my program, install Python, create a .py file with the code, and then run it using a terminal or which will open a window where the turtle draws shrinking squares in a spiral pattern.
